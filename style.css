@@ -1,0 +1,38 @@
+/* hero-section */
+html,
+body {
+  max-width: 100%;
+  overflow-x: hidden;
+}
+.hero-section {
+  background-color: #fffbf0;
+  padding-bottom: 3%;
+}
+.hero-header-text {
+  padding-top: 180px;
+  font-weight: bold;
+  font-size: 50px;
+}
+.left-text {
+  padding-left: 105px;
+}
+
+.our-btn {
+  background-color: #a4bc46;
+  padding: 10px 30px;
+  border: none;
+  border-radius: 7px;
+}
+.our-btn:hover {
+  background-color: #99b820;
+}
+.image-right {
+  padding-top: 93px;
+}
+/* women jacket */
+.women-jacket {
+  width: 293px;
+}
+.w-single-product {
+  background-color: #f1f1f1;
+}
